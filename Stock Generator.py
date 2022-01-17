@@ -21,7 +21,7 @@ from pathlib import Path
 # In[2]:
 
 
-# Reads input for volatility
+# reads input for volatility
 def safe_risky_wise ():
     standard = input('Please pick one from the three: "safe", "risky" or "wise" stocks')
     if (standard != 'safe') & (standard != 'risky') & (standard != 'wise'):
@@ -30,7 +30,7 @@ def safe_risky_wise ():
     else:
         return standard
 
-# Reads input for duration
+# reads input for duration
 def short_long ():
     term = input('Please pick one from the two: "short" or "long" term')
     if (term !='short') & (term !='long'):
