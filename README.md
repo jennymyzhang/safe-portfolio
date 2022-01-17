@@ -1,5 +1,7 @@
 # Stock-Generator
 Please visit "Stock Generator.ipynb" for a clearer view and "Stock Generator.py" for scripts.
+
+
 The stock generator is designed to allow users to assess their list of tickers and select the valid tickers denominated in USD that best meet their needs using Python.
 
 Users can choose volatility (whether they want to do safe, risky or wise investing), duration (short-term investment or long-term investment), number of stocks desired to choose and amount of money to invest.
