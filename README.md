@@ -1,4 +1,5 @@
 ## Quantatative Minimum Risk Portfolio Generation Algorithm
+[image](https://user-images.githubusercontent.com/97857205/158243407-1bc8ef94-b2b3-4a4d-9125-06c4a463e6e1.png)
 
 It is a portfolio allocation algorithm that uses statistical analysis of stock data to generate a portfolio of minimal risk for risk-adverse clients.
 
