@@ -2,7 +2,7 @@
 
 > Generates a portfolio of minimum risk for conservative investors
 
-![Aegis Image](/Sprout.png)
+![Aegis Image](/Aegis.png)
 
 ## What is Aegis?
 
